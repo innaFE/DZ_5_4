@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.fullwrap{
+	width: 485px;
+	min-height: 530px;
+	border: 1px solid black;
+	position: relative;
+	margin: 5px;
+}
+
+header{
+	margin: 10px;
+	height: 60px;
+	border: 1px solid black;
+}
+
+.wrap{
+	height: 315px;
+	margin: 10px;
+	position: relative;
+	border: 1px solid black;
+}
+
+main{
+	border:1px solid black;
+	height: 290px;
+	width: 253px;
+	margin: 5px;
+	float: left;
+}
+
+.sidebar{
+	width: 165px;
+	height: 290px;
+	border:1px solid black;
+	margin: 5px;
+	float: right;
+}
+
+footer{
+	height: 100px;
+	margin: 10px;
+	border: 1px solid black;
+}
